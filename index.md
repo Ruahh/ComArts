@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+To-do:
+**3D:**
+  - wk5
+  - wk6
+  - _blockouts_ for final scenes
 
-You can use the [editor on GitHub](https://github.com/Ruahh/ComArts/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# March 23 - Wednesday
+3D class tomorrow. I need to get caught up with work.
+I'm behind on work from weeks 5 & 6, and need to complete that before continuing with this week's (8) work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ruahh/ComArts/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+** - plans: -**
+ Rewatch wk5 Animation lecture  (1hr)
+ Complete Wk5 class   (2-4hr)
+ Blockout 2x 3D scenes   (2hr)
+ 
+ And that will likely be all I can do today.
