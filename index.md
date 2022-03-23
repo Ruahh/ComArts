@@ -11,9 +11,9 @@ To-do:
 3D class tomorrow. I need to get caught up with work.
 I'm behind on work from weeks 5 & 6, and need to complete that before continuing with this week's (8) work.
 
-** - plans: -**
+**plans:**
 
- Rewatch wk5 Animation lecture  (1hr)
+ ~~Rewatch wk5 Animation lecture  (1hr)~~  _Complete._
  Complete Wk5 class   (2-4hr)
  Blockout 2x 3D scenes   (2hr)
  
